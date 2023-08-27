@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Real_Time_Abnormal_Event_Detection_System
 This is the final year undergraduate project.
 =======
@@ -30,3 +31,7 @@ If you are developing a production application, we recommend updating the config
 - Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
 - Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
 >>>>>>> 27d2a78 (Encryption-Recordings-Psnr)
+=======
+# RealTimeAbnormalEventDetectionSystem
+This is the final year undergraduate project.
+>>>>>>> fb5e7c45182e36c0fc977a1cc8b3e9f047d98781
